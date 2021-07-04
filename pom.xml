@@ -15,7 +15,7 @@
 	<name>mock-server</name>
 	<description>mock-server in spring boot</description>
 	<properties>
-		<java.version>11</java.version>
+		<java.version>1.8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
